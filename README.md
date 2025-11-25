@@ -97,6 +97,9 @@ Apollolake Platforms
 
 Porject Name | Directory Name | Platform ID
 :----------- |:-------------- | :----------
+SOM-2569|ApollolakeBoardPkg|0x10
+SOM-3569|ApollolakeBoardPkg|0x11
+SOM-6869|ApollolakeBoardPkg|0x12
 SOM-7569|ApollolakeBoardPkg|0x13
 
 FSP Project Name | Directory Name | FSP Specification Version
